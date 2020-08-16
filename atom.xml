@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://tinsing.gitee.io</id>
+    <title>Tinsing</title>
+    <updated>2020-08-16T10:20:50.084Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://tinsing.gitee.io"/>
+    <link rel="self" href="https://tinsing.gitee.io/atom.xml"/>
+    <logo>https://tinsing.gitee.io/images/avatar.png</logo>
+    <icon>https://tinsing.gitee.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, Tinsing</rights>
+    <entry>
+        <title type="html"><![CDATA[如何建立独立网站/个人博客?]]></title>
+        <id>https://tinsing.gitee.io/post/ru-he-jian-li-du-li-wang-zhan-ge-ren-bo-ke/</id>
+        <link href="https://tinsing.gitee.io/post/ru-he-jian-li-du-li-wang-zhan-ge-ren-bo-ke/">
+        </link>
+        <updated>2020-02-20T14:24:12.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="秉承不要重复造轮子的原则若网络上有相关的教程那我会直接给出超链接让你去跟着做">秉承不要重复造轮子的原则，若网络上有相关的教程，那我会直接给出超链接，让你去跟着做。</h2>
+<p>🤠若网络上相关的教程已不再适用，那我将会写出详细的教程，并附上注意事项。✍️So这篇文章你可以把它当作一个“<strong>目录</strong>”，里面许许多多的教程链接，会把你指引到正确的方向。☀️</p>
+<h2 id="1-如果你还没有了解过gridea的话我推荐你先去gridea官网看看">1. 如果你还没有了解过Gridea的话，我推荐你先去<a href="https://gridea.dev">Gridea官网</a>看看。🌞</h2>
+<h2 id="2-引用gridea官网对girdea的描述">2. 引用Gridea官网对Girdea的描述</h2>
+<blockquote>
+<p>Gridea 是一个静态博客写作客户端，帮助你更容易地构建并管理博客或任何静态站点。<br>
+Markdown  快且安全  简而不凡</p>
+</blockquote>
+<h2 id="所以使用gridea建立独立网站个人博客无疑是一个很棒的选择-那么当你对gridea有一定理解后下面就是你的表演时间">所以使用Gridea建立独立网站/个人博客无疑是一个很棒的选择。👍那么当你对Gridea有一定理解后，下面就是你的表演时间。</h2>
+<h2 id="4-gridea支持两个代码托管平台github-coding以及允许用户通过-sftp-的方式上传到自己的服务器-至于sftp方式在这里我就不细说了毕竟受众太少耗费金钱大多数人都是选择使用代码托管平台-那么问题来了是选github还是coding好呢在这我给出一道选择题">4. Gridea支持两个代码托管平台GitHub、Coding以及允许用户通过 SFTP 的方式上传到自己的服务器。至于SFTP方式在这里我就不细说了，毕竟受众太少/耗费金钱💍，大多数人都是选择使用代码托管平台。那么问题来了，是选GitHub还是Coding好呢？在这我给出一道选择题。</h2>
+<blockquote>
+<p>不想实名但可以接受延迟的选择GitHub，反之选择Coding。（当然你要是说小孩子才做选择，而我全都要。Emmm也不是不可以，但Gridea只支持同时连接一个平台🤣）</p>
+</blockquote>
+<blockquote>
+<p>当选择好托管平台后，选GitHub的同学请看第5点，选Coding的同学请直接跳到第6点</p>
+</blockquote>
+<h2 id="5-这是来自gridea官网的快速上手教程">5. 这是来自Gridea官网的<a href="https://gridea.dev/gridea-start/">快速上手教程</a></h2>
+<h2 id="6-这是来自科技爱好者博客的使用gridea在codinggithub上搭建免费博客网站教程">6. 这是来自<a href="https://www.lxx1.com/">科技爱好者博客</a>的<a href="https://blog.lxx1.com/3870">使用Gridea在Coding/GitHub上搭建免费博客网站</a>教程。<img src="https://upload-images.jianshu.io/upload_images/21312223-7b2db14d99673343.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="使用Gridea在Coding/GitHub上搭建免费博客网站" loading="lazy"></h2>
+<h2 id="7-到此你已经完成部署流程了接下来我要跟你讲的是怎么接入评论平台-首先gridea内置了两个评论平台它们分别是gitalk和disqus-gitalk呢配置简单步骤也短但载入时间长使用门槛高需要github账号没有评论管理不推荐-而disqus在国内已无法正常使用pass-看起来是不是一个适合的评论平台都没有别灰心我还要给你介绍valine-引用valine官网的一句描述">7. 到此你已经完成部署流程了👏，接下来我要跟你讲的是怎么接入评论平台🤡。首先，Gridea内置了两个评论平台，它们分别是<a href="https://github.com/gitalk/gitalk">Gitalk</a>和<a href="https://baike.baidu.com/item/Disqus/7176070?fr=aladdin">Disqus</a>。Gitalk呢，配置简单，步骤也短，但载入时间长，使用门槛高（需要GitHub账号），没有评论管理，不推荐🤚。而Disqus在国内已无法正常使用，Pass✋。看起来是不是一个适合的评论平台都没有，别灰心，我还要给你介绍<a href="https://valine.js.org/">Valine</a>。引用Valine官网的一句描述</h2>
+<blockquote>
+<p>Valine一款快速、简洁且高效的无后端评论系统</p>
+</blockquote>
+<h2 id="所以使用valine评论平台是个不错的选择-简洁高效使用门槛低-在这里给个小建议注册leancloud时如果介意实名的同学可以选择国际节点此节点无需实名但需要绑定手机号反之亦然">所以，使用Valine评论平台是个不错的选择。简洁高效，使用门槛低。在这里给个小建议:注册<a href="https://leancloud.cn/dashboard/login.html#/signup">Leancloud</a>时，如果介意实名的同学可以选择国际节点，此节点无需实名但需要绑定手机号，反之亦然。</h2>
+<h2 id="8-为你的gridea博客加上valine评论系统">8. <a href="https://kveln.cn/post/qE678A4ce/">为你的Gridea博客加上Valine评论系统</a></h2>
+<h2 id="9-接入valine后你已经成功完成了你的独立网站个人博客的建立-那么剩下的就是进阶教程了有想法的同学可以接着往下看">9. 接入Valine后，你已经成功完成了你的独立网站/个人博客的建立。👏👏👏那么剩下的就是进阶教程了，有想法的同学可以接着往下看。</h2>
+<h2 id="10-接入valine后你会发现怎么没有评论数据管理呢解决办法">10. 接入Valine后你会发现怎么没有评论数据管理呢?<a href="https://qmvdvl.coding-pages.com/post/valine-admin-tuo-zhan-zeng-qiang/">解决办法</a></h2>
+<h3 id="在配置过程中如果遇到问题欢迎在评论区留言或去相关教程链接请教作者-这个小站也是接入valine评论平台的简洁高效">在配置过程中如果遇到问题欢迎在评论区留言或去相关教程链接请教作者。🎓（这个小站也是接入Valine评论平台的，简洁高效）</h3>
+<h3 id="the-end">The end.</h3>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valine Admin拓展增强]]></title>
+        <id>https://tinsing.gitee.io/post/valine-admin-tuo-zhan-zeng-qiang/</id>
+        <link href="https://tinsing.gitee.io/post/valine-admin-tuo-zhan-zeng-qiang/">
+        </link>
+        <updated>2020-02-19T09:11:22.000Z</updated>
+        <summary type="html"><![CDATA[<p>当你的个人博客/独立网站接入Valine后，你会发现，怎么没有评论数据管理呢?😅</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>当你的个人博客/独立网站接入Valine后，你会发现，怎么没有评论数据管理呢?😅</p>
+<!-- more -->
+<h2 id="引用valine官网的描述">引用Valine官网的描述</h2>
+<blockquote>
+<p>由于Valine 是<strong>无后端</strong>评论系统，所以也就没有开发评论数据管理功能。请自行登录<code>Leancloud应用</code>管理。</p>
+</blockquote>
+<h1 id="那么我们应该怎么做才能优雅的使用评论管理功能呢">那么我们应该怎么做才能优雅的使用评论管理功能呢？😎</h1>
+<h2 id="细心看过valine官网的同学就可能会知道了valine作者有给出一个解决的好办法它就是-valine-admin">细心看过Valine官网的同学就可能会知道了，Valine作者有给出一个解决的好办法，它就是——— <a href="https://github.com/panjunwen/Valine-Admin"><strong>Valine-Admin</strong></a>  。</h2>
+<h2 id="引用一下valine-admin项目的描述">引用一下Valine Admin项目的描述</h2>
+<blockquote>
+<p>Valine Admin 是 <a href="https://deserts.io/diy-a-comment-system/">Valine 评论系统</a>的扩展和增强，主要实现<strong>评论邮件通知、评论管理、垃圾评论过滤</strong>等功能。<strong>支持完全自定义的邮件通知模板</strong>。<strong>基于Akismet API实现准确的垃圾评论过滤</strong>。此外，使用云函数等技术解决了免费版云引擎休眠问题，<strong>支持云引擎自动唤醒，漏发邮件自动补发</strong>。兼容云淡风轻及Deserts维护的多版本Valine。</p>
+</blockquote>
+<h2 id="温馨提示使用国际节点的同学在设置定时任务时需注意时区问题-例如发邮件的cron表达式可以改为0-0-0-半小时后唤醒可以改为0-30-0-15">温馨提示:使用<strong>国际节点</strong>的同学在设置<strong>定时任务</strong>时需注意<strong>时区</strong>问题。例如发邮件的Cron表达式可以改为<code>0 0 0 * * ?</code>；半小时后唤醒可以改为<code>0 */30 0-15 * * ?</code>。<img src="https://tinsing.gitee.io/post-images/1582157430531.png" alt="" loading="lazy"></h2>
+<h3 id="在配置过程中如果遇到问题欢迎在评论区留言或去相关教程链接请教作者-这个小站也是接入valine评论平台的简洁高效">在配置过程中如果遇到问题欢迎在评论区留言或去相关教程链接请教作者。😄🥂（这个小站也是接入Valine评论平台的，简洁高效）</h3>
+<h3 id="the-end">The end.</h3>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初来乍到 请多指教]]></title>
+        <id>https://tinsing.gitee.io/post/chu-lai-zha-dao-qing-duo-zhi-jiao/</id>
+        <link href="https://tinsing.gitee.io/post/chu-lai-zha-dao-qing-duo-zhi-jiao/">
+        </link>
+        <updated>2020-02-12T05:29:16.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="今天我正式建立好这个blog以后也将在这里记录心情分享感受-我要学习markdown语法并熟练使用加油附上一张伟大cp漫画">今天，我正式建立好这个Blog，以后也将在这里记录心情，分享感受💙。我要学习Markdown语法并熟练使用，加油！🙋‍♂<img src="https://tinsing.gitee.io/post-images/1581830984168.jpg" alt="" loading="lazy"><em>附上一张伟大CP漫画</em></h2>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://tinsing.gitee.io/post/hello-gridea/</id>
+        <link href="https://tinsing.gitee.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
