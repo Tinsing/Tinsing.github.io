@@ -2389,7 +2389,7 @@ form.search-form input.search-field:-ms-input-placeholder {
 form.search-form .submit {
   position: absolute;
   right: 20px;
-  top: 50%;
+  top: 30%;
   color: #fff;
   background: none;
   -webkit-backface-visibility: hidden;
@@ -3626,13 +3626,11 @@ div.text ol {
 div.text ul,
 div.text ul li {
   list-style-type: disc;
-  list-style-position: inside;
   position: relative;
 }
 div.text ol,
 div.text ol li {
   list-style-type: decimal;
-  list-style-position: inside;
 }
 div.text ol ol {
   list-style: upper-alpha;
@@ -4546,7 +4544,7 @@ div.text .wp-block-table {
 #footer .published {
   text-align: center;
   color: rgba(255, 255, 255, 0.5);
-  margin-bottom: 50px;
+  padding-bottom: 50px;
   font-size: 12px;
 }
 #footer .published a {
@@ -9621,4 +9619,9 @@ photos .photo:last-child {
   display: inline-block;
   font-size: 13px;
   margin-left: 10px;
+}
+.post-content figcaption {
+  display: inline-block;
+  border-top: 1px solid #aaa;
+  padding-top: 8px;
 }
