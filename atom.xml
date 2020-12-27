@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tinsing.gitee.io</id>
-    <title>Tinsing</title>
-    <updated>2020-08-16T10:47:03.732Z</updated>
+    <title>Tinshing</title>
+    <updated>2020-12-27T07:32:56.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tinsing.gitee.io"/>
     <link rel="self" href="https://tinsing.gitee.io/atom.xml"/>
     <logo>https://tinsing.gitee.io/images/avatar.png</logo>
     <icon>https://tinsing.gitee.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Tinsing</rights>
+    <rights>All rights reserved 2020, Tinshing</rights>
     <entry>
         <title type="html"><![CDATA[如何建立独立网站/个人博客?]]></title>
         <id>https://tinsing.gitee.io/post/ru-he-jian-li-du-li-wang-zhan-ge-ren-bo-ke/</id>
