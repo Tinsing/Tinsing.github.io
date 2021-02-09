@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tinsing.gitee.io</id>
+    <id>https://Tinsing.github.io</id>
     <title>Tinshing</title>
-    <updated>2020-12-27T07:32:56.898Z</updated>
+    <updated>2021-02-09T00:48:57.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://tinsing.gitee.io"/>
-    <link rel="self" href="https://tinsing.gitee.io/atom.xml"/>
-    <logo>https://tinsing.gitee.io/images/avatar.png</logo>
-    <icon>https://tinsing.gitee.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Tinshing</rights>
+    <link rel="alternate" href="https://Tinsing.github.io"/>
+    <link rel="self" href="https://Tinsing.github.io/atom.xml"/>
+    <logo>https://Tinsing.github.io/images/avatar.png</logo>
+    <icon>https://Tinsing.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, Tinshing</rights>
     <entry>
         <title type="html"><![CDATA[如何建立独立网站/个人博客?]]></title>
-        <id>https://tinsing.gitee.io/post/ru-he-jian-li-du-li-wang-zhan-ge-ren-bo-ke/</id>
-        <link href="https://tinsing.gitee.io/post/ru-he-jian-li-du-li-wang-zhan-ge-ren-bo-ke/">
+        <id>https://Tinsing.github.io/post/ru-he-jian-li-du-li-wang-zhan-ge-ren-bo-ke/</id>
+        <link href="https://Tinsing.github.io/post/ru-he-jian-li-du-li-wang-zhan-ge-ren-bo-ke/">
         </link>
         <updated>2020-02-20T14:24:12.000Z</updated>
         <content type="html"><![CDATA[<h2 id="秉承不要重复造轮子的原则若网络上有相关的教程那我会直接给出超链接让你去跟着做">秉承不要重复造轮子的原则，若网络上有相关的教程，那我会直接给出超链接，让你去跟着做。</h2>
@@ -47,8 +47,8 @@ Markdown  快且安全  简而不凡</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Valine Admin拓展增强]]></title>
-        <id>https://tinsing.gitee.io/post/valine-admin-tuo-zhan-zeng-qiang/</id>
-        <link href="https://tinsing.gitee.io/post/valine-admin-tuo-zhan-zeng-qiang/">
+        <id>https://Tinsing.github.io/post/valine-admin-tuo-zhan-zeng-qiang/</id>
+        <link href="https://Tinsing.github.io/post/valine-admin-tuo-zhan-zeng-qiang/">
         </link>
         <updated>2020-02-19T09:11:22.000Z</updated>
         <summary type="html"><![CDATA[<p>当你的个人博客/独立网站接入Valine后，你会发现，怎么没有评论数据管理呢?😅</p>
@@ -65,24 +65,24 @@ Markdown  快且安全  简而不凡</p>
 <blockquote>
 <p>Valine Admin 是 <a href="https://deserts.io/diy-a-comment-system/">Valine 评论系统</a>的扩展和增强，主要实现<strong>评论邮件通知、评论管理、垃圾评论过滤</strong>等功能。<strong>支持完全自定义的邮件通知模板</strong>。<strong>基于Akismet API实现准确的垃圾评论过滤</strong>。此外，使用云函数等技术解决了免费版云引擎休眠问题，<strong>支持云引擎自动唤醒，漏发邮件自动补发</strong>。兼容云淡风轻及Deserts维护的多版本Valine。</p>
 </blockquote>
-<h2 id="温馨提示使用国际节点的同学在设置定时任务时需注意时区问题-例如发邮件的cron表达式可以改为0-0-0-半小时后唤醒可以改为0-30-0-15">温馨提示:使用<strong>国际节点</strong>的同学在设置<strong>定时任务</strong>时需注意<strong>时区</strong>问题。例如发邮件的Cron表达式可以改为<code>0 0 0 * * ?</code>；半小时后唤醒可以改为<code>0 */30 0-15 * * ?</code>。<img src="https://tinsing.gitee.io/post-images/1582157430531.png" alt="" loading="lazy"></h2>
+<h2 id="温馨提示使用国际节点的同学在设置定时任务时需注意时区问题-例如发邮件的cron表达式可以改为0-0-0-半小时后唤醒可以改为0-30-0-15">温馨提示:使用<strong>国际节点</strong>的同学在设置<strong>定时任务</strong>时需注意<strong>时区</strong>问题。例如发邮件的Cron表达式可以改为<code>0 0 0 * * ?</code>；半小时后唤醒可以改为<code>0 */30 0-15 * * ?</code>。<img src="https://Tinsing.github.io/post-images/1582157430531.png" alt="" loading="lazy"></h2>
 <h3 id="在配置过程中如果遇到问题欢迎在评论区留言或去相关教程链接请教作者-这个小站也是接入valine评论平台的简洁高效">在配置过程中如果遇到问题欢迎在评论区留言或去相关教程链接请教作者。😄🥂（这个小站也是接入Valine评论平台的，简洁高效）</h3>
 <h3 id="the-end">The end.</h3>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[初来乍到 请多指教]]></title>
-        <id>https://tinsing.gitee.io/post/chu-lai-zha-dao-qing-duo-zhi-jiao/</id>
-        <link href="https://tinsing.gitee.io/post/chu-lai-zha-dao-qing-duo-zhi-jiao/">
+        <id>https://Tinsing.github.io/post/chu-lai-zha-dao-qing-duo-zhi-jiao/</id>
+        <link href="https://Tinsing.github.io/post/chu-lai-zha-dao-qing-duo-zhi-jiao/">
         </link>
         <updated>2020-02-12T05:29:16.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="今天我正式建立好这个blog以后也将在这里记录心情分享感受-我要学习markdown语法并熟练使用加油附上一张伟大cp漫画">今天，我正式建立好这个Blog，以后也将在这里记录心情，分享感受💙。我要学习Markdown语法并熟练使用，加油！🙋‍♂<img src="https://tinsing.gitee.io/post-images/1581830984168.jpg" alt="" loading="lazy"><em>附上一张伟大CP漫画</em></h2>
+        <content type="html"><![CDATA[<h2 id="今天我正式建立好这个blog以后也将在这里记录心情分享感受-我要学习markdown语法并熟练使用加油附上一张伟大cp漫画">今天，我正式建立好这个Blog，以后也将在这里记录心情，分享感受💙。我要学习Markdown语法并熟练使用，加油！🙋‍♂<img src="https://Tinsing.github.io/post-images/1581830984168.jpg" alt="" loading="lazy"><em>附上一张伟大CP漫画</em></h2>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://tinsing.gitee.io/post/hello-gridea/</id>
-        <link href="https://tinsing.gitee.io/post/hello-gridea/">
+        <id>https://Tinsing.github.io/post/hello-gridea/</id>
+        <link href="https://Tinsing.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
