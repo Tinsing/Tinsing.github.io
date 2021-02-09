@@ -2,13 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Tinsing.github.io</id>
     <title>Tinshing</title>
-    <updated>2021-02-09T01:33:48.893Z</updated>
+    <updated>2021-02-09T01:40:26.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Tinsing.github.io"/>
     <link rel="self" href="https://Tinsing.github.io/atom.xml"/>
     <logo>https://Tinsing.github.io/images/avatar.png</logo>
     <icon>https://Tinsing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Tinshing</rights>
+    <entry>
+        <title type="html"><![CDATA[论''洋地名''与文化自信]]></title>
+        <id>https://Tinsing.github.io/post/lun-yang-di-ming-yu-wen-hua-zi-xin/</id>
+        <link href="https://Tinsing.github.io/post/lun-yang-di-ming-yu-wen-hua-zi-xin/">
+        </link>
+        <updated>2021-02-09T01:34:06.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>   近十年来，“洋地名”现象风靡全国。如香榭丽舍、挪威森林、戛纳风情街等，光看地名就让人误以为高品位、国际化，让人仿佛置身于国外。其实，这些现象的出现源于他们对本土文化的不自信和畸形的文化审美观念。
+   人们希望自身的文化高品位，更高端，更潮流时尚。可以说，“洋地名”的出现恰恰符合了人们的文化需求。之所以洋地名”现象能够得以风靡全国，是因为人们对本土文化的不自信以及畸形的文化审美观念导致的。他们觉得本土文化显得低端，不够大气。但他们又急欲提升自己的“品位”，所以“洋地名”应运而生，并且在社会上得以疯狂传播和模仿。
+   然而，“洋地名”真的能够提升城市的“品位”，走上成功的道路吗？我觉得并不见得。“洋地名”说到底还是外国文化只能短暂地吸引人的眼球罢了。地名是一个国家文化的体现，是一个民族悠久历史底蕴的展现。一个好的地名，不仅承载着一段历史，还承载着一代又一代人的美好回忆。这样的地名才能得到大家的欣赏和认可。至于“洋地名”，不可否认它看起来的确国际化和高端化了，然而这些洋地名又承载着什么？能给我们带来什么文化力量？反而这种文化的泛滥折射了国人畸形的文化审美观念和对本土文化的不自信。而且，这种现象更导致了整个社会出现了一股崇洋媚外之风，传统文化被逐渐淡化，优秀传统文化的继承也遭受破坏。如若再不停止并纠正，传统文化必将慢慢消失在我们的视野中。难道真的要等到自身的传统文化消失殆尽的那一天，我们才知道后悔吗？
+  追求高品位和国际化，本身并无错误。但错就错在一味追捧外国文化，而忽视冷落本土文化，从而造成文化继承的阻断及本土文化的消失。作为城市管理者，应该继承和发展本土文化，树立文化自信心，端正文化审美观念，拨乱反正，对本土文化加以保护，才是应该且必须去做的事。
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何建立独立网站/个人博客?]]></title>
         <id>https://Tinsing.github.io/post/ru-he-jian-li-du-li-wang-zhan-ge-ren-bo-ke/</id>
@@ -68,15 +81,6 @@ Markdown  快且安全  简而不凡</p>
 <h2 id="温馨提示使用国际节点的同学在设置定时任务时需注意时区问题-例如发邮件的cron表达式可以改为0-0-0-半小时后唤醒可以改为0-30-0-15">温馨提示:使用<strong>国际节点</strong>的同学在设置<strong>定时任务</strong>时需注意<strong>时区</strong>问题。例如发邮件的Cron表达式可以改为<code>0 0 0 * * ?</code>；半小时后唤醒可以改为<code>0 */30 0-15 * * ?</code>。<img src="https://Tinsing.github.io/post-images/1582157430531.png" alt="" loading="lazy"></h2>
 <h3 id="在配置过程中如果遇到问题欢迎在评论区留言或去相关教程链接请教作者-这个小站也是接入valine评论平台的简洁高效">在配置过程中如果遇到问题欢迎在评论区留言或去相关教程链接请教作者。😄🥂（这个小站也是接入Valine评论平台的，简洁高效）</h3>
 <h3 id="the-end">The end.</h3>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初来乍到 请多指教]]></title>
-        <id>https://Tinsing.github.io/post/chu-lai-zha-dao-qing-duo-zhi-jiao/</id>
-        <link href="https://Tinsing.github.io/post/chu-lai-zha-dao-qing-duo-zhi-jiao/">
-        </link>
-        <updated>2020-02-12T05:29:16.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="今天我正式建立好这个blog以后也将在这里记录心情分享感受-我要学习markdown语法并熟练使用加油附上一张伟大cp漫画">今天，我正式建立好这个Blog，以后也将在这里记录心情，分享感受💙。我要学习Markdown语法并熟练使用，加油！🙋‍♂<img src="https://Tinsing.github.io/post-images/1581830984168.jpg" alt="" loading="lazy"><em>附上一张伟大CP漫画</em></h2>
 ]]></content>
     </entry>
     <entry>
